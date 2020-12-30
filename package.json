@@ -1,12 +1,12 @@
 {
   "name": "autoprefixer-stylus",
   "description": "autoprefixer for stylus",
-  "version": "2.0.0",
+  "version": "1.0.1",
   "author": "Jeff Escalante",
   "dependencies": {
-    "autoprefixer": "~10.0.2",
+    "autoprefixer": "~9.8.6",
     "multi-stage-sourcemap": "0.3.1",
-    "postcss": "~8.1.10"
+    "postcss": "~7.0.35"
   },
   "devDependencies": {
     "chai": "4.2.0",
